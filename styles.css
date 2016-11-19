@@ -1,0 +1,42 @@
+html{
+    font-family: "PT Serif Light";
+#    font-weight: lighter;
+}
+
+body{
+  background: lightblue;
+  font-family: : "Times New Roman";
+}
+
+div{
+  margin: 10px;
+  text-align: center;
+#  background-color: white;
+#  border: 1px solid black;
+}
+
+#address{
+  padding-top: 1px;
+}
+
+header{
+  text-align: center;
+  background: #0664a3;
+  color: white;
+}
+
+footer{
+  background: #0664a3;
+  color: white;
+#  padding-left: 10px;
+#  height: 30px;
+  padding: 5px;
+  padding-right: 10px;
+  text-align: right;
+}
+
+.float{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
